@@ -1,0 +1,8 @@
+in_game_data/
+venv/
+games/
+api_format/
+graveyard/
+*.pyc
+__pycache__/
+notes.txt
